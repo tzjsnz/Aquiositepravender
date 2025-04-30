@@ -1,0 +1,25 @@
+/* Estilos básicos omitidos para brevidade */
+
+.help-section {
+  text-align: center;
+  margin: 20px;
+}
+
+#helpButton {
+  padding: 10px 20px;
+  background-color: #00ffc3;
+  color: #000;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#helpText {
+  margin-top: 10px;
+  color: #ccc;
+}
+
+.hidden {
+  display: none;
+}
